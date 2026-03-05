@@ -20,8 +20,8 @@
 
 ### 1. Supplier Risk Dashboard
 [cite_start]Shows the distribution of "At Risk" vs "Stable" orders and supplier reliability scores[cite: 29, 45, 58].
-![Supplier Risk Dashboard](INSERT_IMAGE_LINK_HERE)
+![Supplier Risk Dashboard]([INSERT_IMAGE_LINK_HERE](https://github.com/0Fadi/Supply-Chain-Risk-Analysis/blob/main/Supplier%20Risk%20Dashboard.png))
 
 ### 2. Operational Sustainability
 [cite_start]Visualizes shipping modes and delay trends across the year[cite: 86, 93, 101].
-![Operational Sustainability](INSERT_IMAGE_LINK_HERE)
+![Operational Sustainability]([INSERT_IMAGE_LINK_HERE](https://github.com/0Fadi/Supply-Chain-Risk-Analysis/blob/main/Operational%20Sustainability.png))
