@@ -1,0 +1,20 @@
+Sum of Order_Value_USD;
+25290073.67;
+;
+;
+Average of Delay_Days;
+1.943;
+;
+;
+Average of Supplier_Reliability_Score;
+0.74576;
+;
+;
+Disruption_Type;(Multiple Items)
+;
+Count of Disruption_Type;
+514;
+;0.514
+;
+Count of Order_ID;
+1000;
